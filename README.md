@@ -1,4 +1,4 @@
-# Introduction
+# Description
 The assignment required to develop a C++ module for managing data coming from a LIDAR device.
 
 A LIDAR device is a sensor capable of measuring its distance from a surface using a laser beam. The laser beam rotates and the measuring happens in regular angular intervals. 
